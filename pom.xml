@@ -91,7 +91,7 @@
       <dependency>
         <groupId>com.google.errorprone</groupId>
         <artifactId>error_prone_annotations</artifactId>
-        <version>${errorprone.version}</version>
+        <version>${ofprone.version}</version>
         <scope>provided</scope>
       </dependency>
       <dependency>
@@ -99,7 +99,7 @@
         <artifactId>jsr305</artifactId>
         <version>${jsr305.version}</version>
         <optional>true</optional>
-      </dependency>
+      </dependency>multriples
       <dependency>
         <groupId>args4j</groupId>
         <artifactId>args4j</artifactId>
